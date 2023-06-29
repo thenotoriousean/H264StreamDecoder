@@ -3,5 +3,6 @@
 
 switch h.264 byte stream to RGBA
 
-build:
-gcc -g  -o test script04.c -lavcodec -lavformat -lavutil -lswscale
+make:
+
+gcc -o decoder decoder.c -lavcodec -lavformat -lavutil -lswscale
