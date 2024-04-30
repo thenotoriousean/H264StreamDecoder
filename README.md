@@ -1,6 +1,6 @@
 # H264StreamDecoder
 
-switch h.264 byte stream to RGBA
+switch h.264 byte stream to RGBA frame
 
 # make:
 
